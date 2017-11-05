@@ -10,11 +10,11 @@ Take a look how to define your own exception and how to link it with a specific 
 
 DB CONFIGURATION:<br>
 The project has H2 database but can easily be changed for e.g. PostgreSQL/MySQL databases.<br>
-See "checkoutcomponent" project on my repo to see an example with PostgreSQL.<br>
+Look at "checkoutcomponent" project on my repo to see an example with PostgreSQL.<br>
 
 SERVER CONFIGURATION:<br>
 Default port: 8080<br>
-To change default port see application.properties file.<br>
+To change the default port see application.properties file.<br>
 
 BUILD & EXECUTE:<br>
 1. Go to the project folder and launch command line window<br>
